@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Rongya Sun</title>
+    <link>https://sunrongya.github.io/tags/golang/</link>
+    <description>Recent content in Golang on Rongya Sun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sunrongya.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Golang学习笔记</title>
+      <link>https://sunrongya.github.io/post/2017/09/02/golang%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunrongya.github.io/post/2017/09/02/golang%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <description>学习Golang过程中才大几了打击发了看到了肯定是飞机的撒辣椒粉的拉萨解放了肯定撒解放立刻几点睡啊附件来的萨芬觉得上课垃圾分类的发来大家发了</description>
+    </item>
+    
+  </channel>
+</rss>
