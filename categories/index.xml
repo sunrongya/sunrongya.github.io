@@ -28,41 +28,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Leekaso</title>
-      <link>https://sunrongya.github.io/categories/leekaso/</link>
-      <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunrongya.github.io/categories/leekaso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://sunrongya.github.io/categories/machine-learning/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunrongya.github.io/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>https://sunrongya.github.io/categories/statistics/</link>
-      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunrongya.github.io/categories/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://sunrongya.github.io/categories/tech/</link>
-      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sunrongya.github.io/categories/tech/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

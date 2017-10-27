@@ -13,40 +13,6 @@
   </url>
   
   <url>
-    <loc>https://sunrongya.github.io/post/2015/07/28/jeff-leek-can-do-zero-fold-cross-validation/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/post/2015/07/27/correlation-implies-whatever-jeff-leek-tells-it-to-imply/</loc>
-    <lastmod>2015-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/post/2015/07/26/jeff-leek-counted-to-infinity.-twice./</loc>
-    <lastmod>2015-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/post/2015/07/25/git-commits-to-jeff-leek/</loc>
-    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/post/2015/07/24/jeff-leek-always-obtains-unbiased-estimators/</loc>
-    <lastmod>2015-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/post/2015/07/23/jeff-leek-is-the-uniformly-most-powerful-jeff/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://sunrongya.github.io/tags/blogdown/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -72,24 +38,6 @@
   <url>
     <loc>https://sunrongya.github.io/categories/hugo/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/categories/leekaso/</loc>
-    <lastmod>2015-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/tags/lorem-ipsum/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sunrongya.github.io/categories/machine-learning/</loc>
-    <lastmod>2015-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,21 +72,13 @@
   </url>
   
   <url>
-    <loc>https://sunrongya.github.io/categories/statistics/</loc>
-    <lastmod>2015-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sunrongya.github.io/tags/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sunrongya.github.io/categories/tech/</loc>
-    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://sunrongya.github.io/about/</loc>
   </url>
   
   <url>
